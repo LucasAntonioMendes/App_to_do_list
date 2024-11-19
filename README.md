@@ -1,7 +1,9 @@
-# App_to_do_list
+# To-Do List com Tkinter
 Projeto criado em Python em sala de aula para aprendizado de orientação a objetos
 
 Usamos o Tikinter para exibir e facilitar a criar o codigo ja que ele facilita com codigos prontos evitando que o usuario tenha  que criar cada linha para mostrar imagem fontes e telas
+ 
+ esse codigo e uma lista de tarefa
 
 tendo o def adicinar tarefa que pega o valor adicionado da box e caso não tenha nada ele vai ele vai apresentar erro
 
@@ -17,4 +19,4 @@ a def alternar sublinhado adiciona uma e remove um marcação para saber se foi 
 
 a def sair do foco serve para poder digitar e entrar dentro da box de digitação
 
-ja as de mais coisas são das partes de estetica definindo fontes, icones,  cores e formatos do appp
+ja as de mais coisas são das partes de estetica definindo fontes, icones,  cores e formatos do app
