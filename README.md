@@ -1,7 +1,7 @@
 # To-Do List com Tkinter
 Projeto criado em Python em sala de aula para aprendizado de orientação a objetos
 
-Usamos o Tikinter para exibir e facilitar a criar o codigo ja que ele facilita com codigos prontos evitando que o usuario tenha  que criar cada linha para mostrar imagem fontes e telas
+Usamos o Tikinter para exibir e facilitar a criar o codigo ja que ele facilita com codigos prontos evitando que o usuario tenha  que criar cada linha para mostrar imagem fontes e telas e para executar o arquivo usamos o vscode
  
  esse codigo e uma lista de tarefa
 
